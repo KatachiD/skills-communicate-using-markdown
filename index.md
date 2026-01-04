@@ -13,3 +13,7 @@ tested some header sizes.
 string name = "Roberto";
 Console.WriteLine(name);
 ```
+
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] introduce myself to the world
